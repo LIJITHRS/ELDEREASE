@@ -1,0 +1,19 @@
+body {
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  a {
+    display: inline-block;
+    margin-top: 10px;
+    background: #4CAF50;
+    color: white;
+    padding: 8px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  a:hover {
+    background: #45a049;
+  }
+  
